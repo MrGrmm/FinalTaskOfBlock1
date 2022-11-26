@@ -34,5 +34,6 @@ string[] CreateNewStringArray(string[] array)
                 j++;
             }   
         }
+    newStringArray = newStringArray.Where(item => item != null).ToArray();
     return newStringArray;
 }
