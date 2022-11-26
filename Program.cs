@@ -21,3 +21,18 @@ void ShowArray(string[] array)
 
     Console.WriteLine();  
 }
+
+string[] CreateNewStringArray(string[] array)
+{
+    int j = 0;
+    string[] newStringArray = new string[array.Length];
+    for(int i = 0; i < array.Length; i++)
+        {
+            if (array[i].Length <= 3)
+            { 
+                newStringArray[j] = array[i];
+                j++;
+            }   
+        }
+    return newStringArray;
+}
