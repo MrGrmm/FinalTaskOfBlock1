@@ -37,3 +37,12 @@ string[] CreateNewStringArray(string[] array)
     newStringArray = newStringArray.Where(item => item != null).ToArray();
     return newStringArray;
 }
+Console.Clear();
+string[] myArray = CreateStringArray();
+Console.Clear();
+Console.Write("Initial array: ");
+ShowArray(myArray);
+string[] newArray = CreateNewStringArray(myArray);
+Console.WriteLine();
+Console.WriteLine("The new array includes the following strings: ");
+ShowArray(newArray);

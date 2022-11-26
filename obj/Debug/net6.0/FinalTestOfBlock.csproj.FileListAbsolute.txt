@@ -1,0 +1,15 @@
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\bin\Debug\net6.0\FinalTestOfBlock.exe
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\bin\Debug\net6.0\FinalTestOfBlock.deps.json
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\bin\Debug\net6.0\FinalTestOfBlock.runtimeconfig.json
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\bin\Debug\net6.0\FinalTestOfBlock.dll
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\bin\Debug\net6.0\FinalTestOfBlock.pdb
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\FinalTestOfBlock.csproj.AssemblyReference.cache
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\FinalTestOfBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\FinalTestOfBlock.AssemblyInfoInputs.cache
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\FinalTestOfBlock.AssemblyInfo.cs
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\FinalTestOfBlock.csproj.CoreCompileInputs.cache
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\FinalTestOfBlock.dll
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\refint\FinalTestOfBlock.dll
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\FinalTestOfBlock.pdb
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\FinalTestOfBlock.genruntimeconfig.cache
+C:\Users\gramm\Desktop\Studies\FinalTestOfBlock\obj\Debug\net6.0\ref\FinalTestOfBlock.dll
